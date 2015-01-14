@@ -1,9 +1,9 @@
-name: android
-version: 1.0.8
+name: poster-android
+version: 0.0.1
 inherits: pjvds/java@0.1.3
 type: main
 platform: ubuntu@12.04
-description: A box created for Android development with Gradle 2.2
+description: A box created for Android development with Gradle 2.2 and api-21 support
 keywords:
   - android
   - gradle
