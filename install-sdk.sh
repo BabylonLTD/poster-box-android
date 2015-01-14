@@ -20,12 +20,12 @@ source $WERCKER_SOURCE_DIR/install-build-tools.sh
 export ANDROID_BUILD_TOOLS="20"
 export ANDROID_VERSION="4.4W"
 source $WERCKER_SOURCE_DIR/install-build-tools.sh
-export ANDROID_BUILD_TOOLS="19.1"
-export ANDROID_VERSION="4.4.2"
-source $WERCKER_SOURCE_DIR/install-build-tools.sh
 export ANDROID_BUILD_TOOLS="19.0.3"
 export ANDROID_VERSION="4.4.2"
 source $WERCKER_SOURCE_DIR/install-build-tools.sh
+# export ANDROID_BUILD_TOOLS="19.1"
+# export ANDROID_VERSION="4.4.2"
+# source $WERCKER_SOURCE_DIR/install-build-tools.sh
 # export ANDROID_BUILD_TOOLS="18.0.1"
 # export ANDROID_VERSION="4.3"
 # source $WERCKER_SOURCE_DIR/install-build-tools.sh
@@ -33,7 +33,7 @@ source $WERCKER_SOURCE_DIR/install-build-tools.sh
 # export ANDROID_VERSION="4.2.2"
 # source $WERCKER_SOURCE_DIR/install-build-tools.sh
 
-export ANDROID_BUILD_TOOLS="19.0.3,19.1,20,21.1.1"
+export ANDROID_BUILD_TOOLS="19.0.3,20,21.1.1"
 
 
 # Write environment variables setup to $profile
