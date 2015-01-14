@@ -3,7 +3,7 @@
 The `wercker/android` box runs on ubuntu 12.04 and provides a selection of the Android toolchain:
 
 * gradle 2.2
-* android sdk version 23.0.5
+* android sdk version 23.0.2
 * android build tools 18.0.1, 19.0.3, 19.1, 20 and 21.1.1
 * android API 18 (android 4.3) ,19 (android 4.4) and 21 (android 5.0)
 * sys image 19 (emulators)
